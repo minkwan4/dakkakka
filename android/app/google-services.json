@@ -1,0 +1,47 @@
+{
+    "project_info": {
+      "project_number": "1072593546086",
+      "project_id": "dakkakka-cf75c",
+      "storage_bucket": "dakkakka-cf75c.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:1072593546086:android:dd8e64d0927a697fa6f6a7",
+          "android_client_info": {
+            "package_name": "com.ojungdong.dakkakka.dakkakka"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "1072593546086-fm4psk8upolft5e2bt292j4hm0f2l2er.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.ojungdong.dakkakka.dakkakka",
+              "certificate_hash": "a021d7da62b5e14930d256c2461094bc74be8945"
+            }
+          },
+          {
+            "client_id": "1072593546086-d6sok5v62hvgnh9c6sjn3647bodv32e6.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyC0apam6olzPt2dTZzsY6eyxP3BpWT3-Qw"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "1072593546086-d6sok5v62hvgnh9c6sjn3647bodv32e6.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
